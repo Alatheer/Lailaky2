@@ -11,6 +11,7 @@
     <string name="Skip">الدخول كضيف</string>
     <string name="registerMassege">لا يوجد لديك حساب ؟</string>
     <string name="title_activity_maps">الخريطة</string>
+    <string name="navigation_drawer_open2">Open navigation drawer</string>
 
     <string name="details">التفاصـيل : </string>
     <string name="view">عرض</string>
